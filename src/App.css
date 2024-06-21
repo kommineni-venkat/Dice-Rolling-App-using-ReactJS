@@ -1,0 +1,11 @@
+.app {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.dice-container {
+  display: flex;
+  justify-content: space-around;
+  width: 300px;
+  margin-top: 20px;
+}
